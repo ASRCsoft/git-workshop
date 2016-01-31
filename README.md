@@ -1,2 +1,2 @@
-### ASRC git-workshop
-#####Git training repo
+##ASRC git-workshop training repository
+#####(xCITE Workshop Series)
